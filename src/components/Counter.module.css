@@ -1,0 +1,29 @@
+.counter {
+  background-color: #f4f0fa;
+  width: 40rem;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+  justify-content: center;
+  margin: 5rem auto;
+}
+
+.textcounter {
+  font-size: 3rem;
+}
+
+.counter button {
+  margin: 1rem;
+}
+
+.content {
+  color: gold;
+}
+
+.positive {
+  color: blue;
+}
+
+.negative {
+  color: red;
+}
